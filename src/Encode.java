@@ -131,6 +131,7 @@ public class Encode extends Frame{
                     }
                 }
             }
+            // These represent next line
             out1.write("0011");
             out2.write("0000");
             out3.write("0011");
@@ -141,6 +142,7 @@ public class Encode extends Frame{
             JOptionPane.showOptionDialog(null, t,"Failed to Encode", JOptionPane.CLOSED_OPTION, JOptionPane.ERROR_MESSAGE,null,null,0);
             throw new IOException();
         }
+        // These code represent end of file
         out1.write("0001");
         out2.write("0001");
         out3.write("0000");
