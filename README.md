@@ -3,7 +3,7 @@
 ![](/img/main.png)
 
 ## Description
-This program is developed to practice the concepts of Caesar cipher and the parity bit in RAID 5. The program takes an input text file and generates three encrypted text files. Any two of the three files are required to recover the original file.
+This program is developed to practice the concepts of Caesar cipher and the parity bit. The program takes an input text file and generates three encrypted text files. Any two of the three files are required to recover the original file.
 
 ## Challenge here!
 To better understand the functionality of the program, I encourage you to download the given encripted files [*here*](/example/Encrpted/) and explore the encryption and decryption process. You can first try to decrpt it without looking at the source code. 
