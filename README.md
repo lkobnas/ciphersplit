@@ -1,5 +1,7 @@
 # CipherSplit - A text file encoder and decoder
 
+![](/img/main.png)
+
 ## Description
 This program is developed to practice the concepts of Caesar cipher and the parity bit in RAID 5. The program takes an input text file and generates three encrypted text files. Any two of the three files are required to recover the original file.
 
@@ -40,7 +42,7 @@ Generates three encrypted text files as output using the [Encode class](/src/Enc
 **Decoder:**
 Recover original file by using any two of the three generated files with the [Decode class](/src/Decode.java). The output file for the decoder is named ```output.txt```.
 
-![encoder](/img/encode.png) | ![decoder](/img/decode.png)
+![encoder](/img/encode.png)            ![decoder](/img/decode.png)
 
 ## How it works
 
