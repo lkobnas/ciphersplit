@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="File encoder and decoder update:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/File_encoder_and_decoder_update_jar</output-path>
+    <root id="archive" name="File encoder and decoder update.jar">
+      <element id="module-output" name="File encoder and decoder update" />
+    </root>
+  </artifact>
+</component>

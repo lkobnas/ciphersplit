@@ -1,0 +1,1 @@
+This project is a program developed to practice the concepts of Caesar cipher and the parity bit in RAID 5. The program takes an input text file and generates three encrypted text files. By utilizing XOR operations, only two out of the three files are required to recover the original file.
