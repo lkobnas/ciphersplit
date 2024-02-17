@@ -36,9 +36,11 @@ Reads an input text file.
 Encrypts the file using Caesar cipher and the parity bit concept in RAID 5.
 Generates three encrypted text files as output using the [Encode class](/src/Encode.java). The output files are named ```output1.txt```, ```output2.txt```, and ```output3.txt```.
 
+
 **Decoder:**
 Recover original file by using any two of the three generated files with the [Decode class](/src/Decode.java). The output file for the decoder is named ```output.txt```.
 
+![encoder](/img/encode.png) | ![decoder](/img/decode.png)
 
 ## How it works
 
